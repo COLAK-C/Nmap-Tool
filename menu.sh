@@ -19,7 +19,6 @@ NC='\e[0m'
 
 exit_script()
 {
-  echo "* * *Trap * * *"
   ./menu
 }
 
